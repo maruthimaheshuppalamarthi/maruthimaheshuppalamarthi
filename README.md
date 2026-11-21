@@ -3,7 +3,7 @@
 <p>
   <a href="https://maruthimahesh.com"><img src="https://img.shields.io/badge/Portfolio-maruthimahesh.com-E11D2E?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/maruthi-mahesh-uppalamarthi-b67150377"><img src="https://img.shields.io/badge/LinkedIn-Maruthi_Mahesh-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:maruthimahesh7666@gmail.com"><img src="https://img.shields.io/badge/Email-maruthimahesh7666%40gmail.com-111111?style=for-the-badge" alt="Email"></a>
+  <a href="mailto:maruthimahesh7666@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-111111?style=for-the-badge" alt="Email"></a>
 </p>
 
 ## About
