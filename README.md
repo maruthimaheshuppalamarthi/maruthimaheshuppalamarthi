@@ -14,7 +14,7 @@
 
 I am an Associate Cloud Engineer at NexTurn, building cloud-native applications with Java, Spring Boot and Azure, and delivering Salesforce, MuleSoft and Generative AI solutions for enterprise teams.
 
-I hold a B.Tech in Electrical and Electronics Engineering from NIT Andhra Pradesh and am pursuing an MBA at IIM Visakhapatnam. I hold 18 certifications across Microsoft, Oracle, Salesforce and Accenture, and I am open to roles in cloud, AI, Salesforce and full-stack engineering.
+I hold a B.Tech in Electrical and Electronics Engineering from NIT Andhra Pradesh and am pursuing an MBA at IIM Visakhapatnam. I hold 18+ certifications across Microsoft, Oracle, Salesforce and Accenture, and I am open to roles in cloud, AI, Salesforce and full-stack engineering.
 
 **Focus areas:** Cloud & Generative AI · Salesforce & MuleSoft Integration · Microservices & Backend
 
