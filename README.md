@@ -1,14 +1,10 @@
-<div align="center">
-
 <img src="assets/banner.svg" alt="Maruthi Mahesh Uppalamarthi, Cloud & AI Full Stack Engineer" width="100%">
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-maruthimahesh.com-E11D2E?style=for-the-badge)](https://maruthimahesh.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/maruthi-mahesh-uppalamarthi-b67150377)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-111111?style=for-the-badge)](mailto:maruthimahesh7666@gmail.com)
-
-</div>
+<p>
+  <a href="https://maruthimahesh.com"><img src="https://img.shields.io/badge/Portfolio-maruthimahesh.com-E11D2E?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/maruthi-mahesh-uppalamarthi-b67150377"><img src="https://img.shields.io/badge/LinkedIn-Maruthi_Mahesh-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:maruthimahesh7666@gmail.com"><img src="https://img.shields.io/badge/Email-maruthimahesh7666%40gmail.com-111111?style=for-the-badge" alt="Email"></a>
+</p>
 
 ## About
 
@@ -41,12 +37,16 @@ I hold a B.Tech in Electrical and Electronics Engineering from NIT Andhra Prades
 
 ## Tech Stack
 
-| | |
-| --- | --- |
-| **Cloud & AI** | ![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-111111?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative_AI-E11D2E?style=flat-square) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-111111?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square) |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-111111?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-111111?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=flat-square) ![Python](https://img.shields.io/badge/Python-111111?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square) |
-| **Salesforce & Integration** | ![Salesforce](https://img.shields.io/badge/Salesforce-E11D2E?style=flat-square) ![Agentforce](https://img.shields.io/badge/Agentforce-111111?style=flat-square) ![Apex](https://img.shields.io/badge/Apex-111111?style=flat-square) ![LWC](https://img.shields.io/badge/LWC-111111?style=flat-square) ![MuleSoft](https://img.shields.io/badge/MuleSoft-E11D2E?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-111111?style=flat-square) |
-| **Data & DevOps** | ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-111111?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-111111?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square) |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"> <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"> <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"> <img src="assets/tile-salesforce.svg" width="48" height="48" alt="Salesforce"> <img src="assets/tile-agentforce.svg" width="48" height="48" alt="Agentforce"> <img src="assets/tile-mulesoft.svg" width="48" height="48" alt="MuleSoft"> <img src="assets/tile-oracle.svg" width="48" height="48" alt="Oracle Cloud"> <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"> <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"> <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"> <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux">
+</p>
+
+<p align="center">
+<b>Cloud & AI:</b> Azure · Oracle Cloud (OCI) · Generative AI · Google Vertex AI · AWS<br>
+<b>Backend:</b> Java · Spring Boot · Microservices · REST APIs · Python · JavaScript<br>
+<b>Salesforce & Integration:</b> Salesforce CRM · Agentforce · Apex · LWC · MuleSoft · Kafka<br>
+<b>Data & DevOps:</b> MySQL · Microsoft Fabric · Power BI · CI/CD · GitHub · Linux
+</p>
 
 ## Featured Projects
 
@@ -59,8 +59,6 @@ I hold a B.Tech in Electrical and Electronics Engineering from NIT Andhra Prades
 | **Azure Spring Boot Microservices** | Cloud-native deployments on Azure using Spring Boot microservices and REST APIs, with Oracle Cloud DevOps pipelines for delivery of enterprise-grade applications. |
 | **Generative AI on OCI and Azure** | Generative AI features and proofs of concept built with OCI Generative AI and Azure AI services, covering LLMs, prompt engineering and vector search. |
 
-Full project write-ups: [maruthimahesh.com](https://maruthimahesh.com)
-
 ## Certifications
 
 **Salesforce:** Certified Agentforce Specialist · Certified Platform Administrator<br>
@@ -68,7 +66,3 @@ Full project write-ups: [maruthimahesh.com](https://maruthimahesh.com)
 **Oracle:** OCI Generative AI Professional · OCI DevOps Professional · OCI AI Foundations Associate · OCI Data Science Professional · AI Vector Search Professional<br>
 **Agile & Business:** Scrum Fundamentals Certified (SFC) · Business Analysis Fundamentals with AI · Kanban Essentials with AI · Introduction to Digital Marketing<br>
 **Accenture:** Digital Skills: Artificial Intelligence · Digital Skills: Web Analytics
-
-## Connect
-
-[Portfolio](https://maruthimahesh.com) · [LinkedIn](https://www.linkedin.com/in/maruthi-mahesh-uppalamarthi-b67150377) · [Email](mailto:maruthimahesh7666@gmail.com)
